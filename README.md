@@ -27,6 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+
   <h3><b>Microverse Hello World Project</b></h3>
 
 </div>
@@ -65,7 +66,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -78,9 +78,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[HTML_CSS]**
-- **[Linters_With_Github]**
-- **[GitHub_Flow]**
+- **[Introduction_To_HTML_CSS]**
+- **[Configuring_Linters_With_Github]**
+- **[Following_GitHub_Flow_Pattern]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,12 +88,22 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+To get a local copy up and running, follow these steps.
+
 ### Prerequisites
 
 In order to run this project you need:
 
 - Code Editor (VS Code, Atom or any other)
-- Github Account
+- Version Control System(git is preferred)
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
 
 ### Setup
 
@@ -106,6 +116,34 @@ Example commands:
   git clone git@github.com:myaccount/my-project.git
 ```
 
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -113,6 +151,16 @@ Example commands:
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/hmunish)
+- Twitter: [@twitterhandle](https://twitter.com/hmunish5)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[making_responsive_design]**
+- [ ] **[adding_javascript_features]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,9 +188,9 @@ If you like this project feel free to contact
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+I would like to thank Microverse team for providing configuration files for setting up linters.
 
-I would like to thank to microverse team for providing configuration files to setup linters.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,5 +199,6 @@ I would like to thank to microverse team for providing configuration files to se
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](LICENSE.txt) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
