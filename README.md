@@ -110,6 +110,22 @@ Example commands:
   git clone git@github.com:myaccount/my-project.git
 ```
 
+### Install
+
+Install this project with:
+
+Example command:
+
+- Open the cloned repository in your preferred text editor & start editing as required
+
+### Usage
+
+To run the project, execute the following command:
+
+Example command:
+
+- Open the index.html file of the cloned repository in your local browser
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
